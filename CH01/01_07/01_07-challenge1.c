@@ -11,7 +11,7 @@ int main()
 		printf("I must do this %d times\n",b);
 		{
 			if (a == 9)
-				break
+				break;
 		}
 		
 	}
